@@ -1,0 +1,1 @@
+The code in the scripts folder was used to extract features for a project that I completed in 6998 Advanced Topics in Spoken Language Processing at Columbia.
