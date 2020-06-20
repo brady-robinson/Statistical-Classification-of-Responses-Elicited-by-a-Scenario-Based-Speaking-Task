@@ -13,7 +13,7 @@ from nltk.corpus import wordnet as wn
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
-
+print("hello")
 
 # Function allows for synonyms to be taken from WordNet
 def get_synonyms(lemma):
