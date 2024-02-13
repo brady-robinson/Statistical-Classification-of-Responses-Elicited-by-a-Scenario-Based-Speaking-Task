@@ -1,7 +1,5 @@
 # Statistical Classification of Responses Elicited by a Scenario-Based Speaking Task
 
-Simple overview of use/purpose.
-
 ## Description
 
 This work investigated acoustic-prosodic, linguistic, and content-related features for classifying
@@ -24,8 +22,7 @@ automated scoring engine specifically for the scenario-based assessment.
 
 ## Authors
 
-Brady Robinson
-(https://www.linkedin.com/in/brady-robinson-426055167/)
+* [Brady Robinson](https://www.linkedin.com/in/brady-robinson-426055167/)
 
 
 ## Acknowledgements
